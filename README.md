@@ -10,7 +10,11 @@ Classification”, Mendeley Data, v2
 http://dx.doi.org/10.17632/rscbjbr9sj.2
 
 ## Repository Contents
-capstone2code.py - all the code used in the project .
+capstone2code.py - all the code used in the project.
+
 Capstone 2 Deck.pptx - Slide deck summarizing project.
+
 Capstone 2 Milestone Report.pdf - Report describing first phase of project.
+
 Capstone Project 2 Report.ipynb - Report going through the whole project.
+
